@@ -1,9 +1,7 @@
 FROM openjdk:17-jdk-slim
 COPY target/*.jar app.jar
-ARG PORT
-# or with a hard-coded default:
-#ARG some_variable_name=default_value
-EXPOSE PORT
+
+EXPOSE 8080
 
 ENTRYPOINT ["java", "-jar", "/app.jar"]
 
