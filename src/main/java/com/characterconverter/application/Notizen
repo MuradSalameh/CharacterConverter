@@ -1,0 +1,26 @@
+Offen:
+Magiepunkte (7e = 1/5 des Werts von MA abgerundet) (6E = ????)
+
+Würfeln 7E
+Tooltips Erläuterungen
+JSON Export
+
+
+Würfeltabelle  Attribute:
+
+1 Stärke           (ST)   3W6*5
+2 Konstitution     (KO)   3W6*5
+3 Körpergröße      (GR)   (2W6+6)*5
+4 Geschicklichkeit (GE)   3W6*5
+5 Erscheinung      (ER)   3W6*5
+6 Intelligenz      (IN)   (2W6+6)*5
+7 Mana             (MA)   3W6*5
+8 Bildung          (BI)   (2W6+6)*5 (1 bis 4 Würfe Alter 15-89)
+
+9 Glück                   3W6*5  (2 Würfe Alter 15-19)
+
+================================
+Erledigt:
+Alter Einfluss 6E ??? - erledigt
+Bewegung 6E -- Erledigt - alle menschlichen movement raten sind 8
+SB/DB 6E  - Erledigt

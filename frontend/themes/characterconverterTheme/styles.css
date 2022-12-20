@@ -1,0 +1,39 @@
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+
+.ccLogoImg {
+height: 150px;
+  width: 682px;
+}
+
+a[highlight] {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.communityNameH1 {
+font-family: 'Arizonia', cursive;
+font-size: 90px;
+margin: 30px 0px 0px;
+}
+
+.titleH1 {
+margin: -45px 0px 30px;
+}
+
+ .oldAgeText {
+ font-size: 13px;
+ }
+
+ .newAgeText {
+  font-size: 13px;
+  }
+
+  .hRow4r {
+  font-size: 14px;
+  gap: var(--lumo-space-s);
+  }
+
+  .hRow4l {
+  font-size: 14px;
+  gap: var(--lumo-space-s);
+  }

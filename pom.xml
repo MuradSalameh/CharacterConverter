@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/e2ffc069-f088-4689-89ec-7b1f1eb2aeb0 -->
-    <groupId>com.example.application</groupId>
-    <artifactId>flowcrmtutorial</artifactId>
-    <name>flowcrmtutorial</name>
+    <groupId>com.characterconverter.application</groupId>
+    <artifactId>CoCCaracterConverter</artifactId>
+    <name>coccharacterconverter</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -47,6 +47,11 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+
+        <repository>
+            <id>vaadin-addons</id>
+            <url>https://maven.vaadin.com/vaadin-addons</url>
+        </repository>
     </repositories>
 
     <pluginRepositories>
@@ -75,6 +80,9 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
+
+
         </dependencies>
     </dependencyManagement>
 
@@ -93,6 +101,7 @@
             <artifactId>h2</artifactId>
             <scope>runtime</scope>
         </dependency>
+
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
