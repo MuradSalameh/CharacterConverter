@@ -2,15 +2,15 @@
   "frontendFolder": "D:/IT/IntelliJProjects2023/CharacterConverter/frontend",
   "themeFolder": "themes",
   "themeResourceFolder": "D:/IT/IntelliJProjects2023/CharacterConverter/frontend/generated/jar-resources",
-  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "staticOutput": "D:/IT/IntelliJProjects2023/CharacterConverter/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
   "generatedFolder": "generated",
-  "statsOutput": "target/classes/META-INF/VAADIN/webapp/../config/",
-  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "statsOutput": "D:\\IT\\IntelliJProjects2023\\CharacterConverter\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\IT\\IntelliJProjects2023\\CharacterConverter\\target\\classes\\META-INF\\VAADIN\\webapp",
   "jarResourcesFolder": "D:/IT/IntelliJProjects2023/CharacterConverter/frontend/generated/jar-resources",
   "generatedFlowImportsFolder": "target/frontend",
-  "themeName": "",
+  "themeName": "characterconverterTheme",
   "clientServiceWorkerSource": "D:\\IT\\IntelliJProjects2023\\CharacterConverter\\target\\sw.ts",
-  "pwaEnabled": false,
-  "offlineEnabled": false,
-  "offlinePath": "'offline.html'"
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
 }
