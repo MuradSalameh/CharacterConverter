@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "D:/IT/IntelliJProjects2023/CharacterConverter/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/IT/IntelliJProjects2023/CharacterConverter/./frontend/generated/jar-resources",
+  "staticOutput": "D:/IT/IntelliJProjects2023/CharacterConverter/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\IT\\IntelliJProjects2023\\CharacterConverter\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\IT\\IntelliJProjects2023\\CharacterConverter\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "D:/IT/IntelliJProjects2023/CharacterConverter/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "characterconverterTheme",
+  "clientServiceWorkerSource": "D:\\IT\\IntelliJProjects2023\\CharacterConverter\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}

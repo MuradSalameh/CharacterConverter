@@ -1,4 +1,4 @@
-/target/
+
 .idea/
 .vscode/
 .settings
@@ -21,4 +21,4 @@ error-screenshots/
 webpack.generated.js
 src/main/java/com/characterconverter/application/Notizen
 src/main/resources/META-INF/resources/images/dice.png
-src/main/resources/META-INF/resources/images/dice.png
+
